@@ -1,7 +1,3 @@
-```jsx
-//notes: 8 human years = 45 dog years. How old would you be if you were a dog? So 1 human year = 5.625 dog years. Therefore, 27* 5.625 is equal to about 151 years.
-//Wait so the first 2 years of a dog's life is equal to 10.5 years each. So it's (2(10.5))+4x.
-
 let myAge = 27;
 let earlyYears = 2;
 
