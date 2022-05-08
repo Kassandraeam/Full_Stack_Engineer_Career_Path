@@ -29,7 +29,7 @@ class Parent {
 
 class childOne extends Parent{
     constructor(properties2, properties3, anyNewProperty){
-        super('You will not be prompted to fill this in because it\'s filled in the super constructor of this child element.', properties2, properties3)
+        super('You will not be prompted to fill this in because it\'s filled in the super keyword of this child element.', properties2, properties3)
         //Any properties that are individual to this class must be added in this format:
         this._anyNewProperty = anyNewProperty;
     }
