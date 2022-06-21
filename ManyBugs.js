@@ -113,7 +113,7 @@ class commentCC extends Bug{
 
 // PC USERS HERE: remove the two back slashes before const.
 const PCs = new PC('Weapon dev name', 'Weapon name', 'UserID', 'KEam', 'Ship');
-
+let testing = test;
 // SONY USERS HERE: remove the two back slashes before const.
 //const Sony = new playstation('Weapon dev name', 'Weapon name', 'UserID', 'UserName', 'Ship');
 
