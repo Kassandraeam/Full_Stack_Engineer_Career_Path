@@ -9,5 +9,7 @@ so we want to iterate through numbers 1-100. i.isInteger
 for (let counter = 1; counter <= 100; counter ++){
     if (counter % 3 === 0) {
         console.log('Fizz') //if I put return here, it stops the loop.
-    } else console.log(counter);
-} 
+    } else if (counter % 5 === 0) {
+        console.log('Buzz');
+    }
+}; 
